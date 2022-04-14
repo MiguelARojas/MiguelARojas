@@ -11,8 +11,8 @@
 ### About Me 🚀
 
 * Student Informatics Engineering at CUCEI
-* Explorer by Launch X of Innovacion Virtual
-* Student by Oracle Next Education
+* Xplorer by Launch X of Innovacion Virtual (Bootcamp)
+* Student by Oracle Next Education (Bootcamp)
 
 ### Technologies
 #### Code
