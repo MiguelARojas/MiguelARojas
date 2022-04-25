@@ -1,6 +1,6 @@
 # Hi there 👋
 
-## I'm Miguel Angel Rojas Macias
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Anton&color=FFA507&lines=I'm+Miguel+Angel+Rojas+Macias)](https://git.io/typing-svg)
 
 ``` py
    println("Thank you for visit my profile")
